@@ -1,0 +1,4 @@
+trade_id,strategy,symbol,side,quantity,price,timestamp
+1,Arbitrage,AMZN,buy,100,150,2025-01-01T09:00:00
+2,Arbitrage,AMZN,buy,100,140,2025-01-01T010:00:00
+3,Arbitrage,AMZN,sell,200,160,2025-01-01T010:30:00
